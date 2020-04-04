@@ -1,4 +1,6 @@
-# MSU-HOCO-ALUMNI
+# MSU-HOCO-ALUMNI - 
+
+## Deployed link - https://msu-alumni-hoco-staging.herokuapp.com/home
 
 ![alumapp](https://user-images.githubusercontent.com/54759646/78453762-d3784000-7661-11ea-9341-fede4043506f.JPG)
 
